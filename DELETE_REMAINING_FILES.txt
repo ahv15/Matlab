@@ -1,0 +1,10 @@
+# Marker file for batch deletion of remaining original files:
+# - K-Means.m
+# - LinRegression.m  
+# - LogRegression.m
+# - MiniBatch.m
+# - Momentum.m
+# - RMSProp.m
+# - Stochiastic.m [sic]
+
+# These files have been refactored into the organized directory structure
